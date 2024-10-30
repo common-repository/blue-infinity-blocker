@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="blue-infinity-blocker-logo.svg"
+   inkscape:export-filename="/home/mfru/projects/wp-blue-infinity-blocker/assets/icon-128x128.png"
+   inkscape:export-xdpi="32.512001"
+   inkscape:export-ydpi="32.512001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="111"
+     inkscape:cy="294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="226.68092"
+       y="132.59663"
+       width="104.61792"
+       height="91.258654"
+       id="rect34105" />
+    <rect
+       x="32.025534"
+       y="123.55588"
+       width="126.07208"
+       height="117.93275"
+       id="rect31063" />
+    <rect
+       x="38.229981"
+       y="115.44263"
+       width="119.20858"
+       height="117.73594"
+       id="rect15005" />
+    <rect
+       x="42.365553"
+       y="137.84114"
+       width="108.74692"
+       height="91.271565"
+       id="rect5921" />
+    <rect
+       x="32.025534"
+       y="123.55588"
+       width="126.07208"
+       height="117.93275"
+       id="rect36355" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="circle1618"
+       style="opacity:1;fill-opacity:0;stroke:#0047ff;stroke-width:0.84667"
+       d="M 49.222309,49.999998 A 23.443792,23.150673 0 0 1 25.778518,73.150674 23.443792,23.150673 0 0 1 2.3347256,49.999998 23.443792,23.150673 0 0 1 25.778518,26.849322 23.443792,23.150673 0 0 1 49.222309,49.999998 Z m 1.854356,0 A 25.326666,25.326664 0 0 1 25.749999,75.326665 25.326666,25.326664 0 0 1 0.42333499,49.999998 25.326666,25.326664 0 0 1 25.749999,24.673335 25.326666,25.326664 0 0 1 51.076665,49.999998 Z" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5919"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5921);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text15003"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15005);fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       id="path37251"
+       style="opacity:1;fill-opacity:0;stroke:#0047ff;stroke-width:0.84667"
+       d="m 97.722315,49.999998 a 23.443792,23.150673 0 0 1 -23.44379,23.150676 23.443792,23.150673 0 0 1 -23.44379,-23.150676 23.443792,23.150673 0 0 1 23.44379,-23.150676 23.443792,23.150673 0 0 1 23.44379,23.150676 z m 1.85435,0 a 25.326666,25.326664 0 0 1 -25.32666,25.326667 25.326666,25.326664 0 0 1 -25.32667,-25.326667 25.326666,25.326664 0 0 1 25.32667,-25.326663 25.326666,25.326664 0 0 1 25.32666,25.326663 z" />
+  </g>
+</svg>
